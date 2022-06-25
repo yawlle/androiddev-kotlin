@@ -13,6 +13,8 @@ Aplicação que mostra todos os títulos do subreddit /androiddev
 
 <h3>Screenshots</h3>
   
-  <img align="center" height="200" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.sv](https://user-images.githubusercontent.com/75861637/175790553-3c2f64f6-980e-43d6-9e49-a68e43d205e2.png">
+  ![Alt text](https://user-images.githubusercontent.com/75861637/175790698-7404e1d2-013d-456d-97ea-3b7f80420b7b.png "Screenshot 1")
+  
+  ![Alt text](https://user-images.githubusercontent.com/75861637/175790700-c8da81f9-a076-4b23-bdb5-98147c88039d.png "Screenshot 2")
   
  
