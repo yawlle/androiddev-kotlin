@@ -5,8 +5,14 @@ Aplicação que mostra todos os títulos do subreddit /androiddev
 - Utilização de RecycleView para mostrar ao usuário um conjunto de dados em forma de lista de itens. 
 - Utilização do Gson, converte e desconverte objetos Java em JSON.
 
-<b>TODO List</b>
+<h3>TODO List</h3>
 
 - Activitys não tem obrigação de carregar lógica de requests. Procurar saber sobre MVVM e aplicar essa lógica em um componente separado. 
 - Buscar formas de aplicar desserialização de API's utilizando Valley, ou alguma forma nativa e mais simples do que a utilizada (pois precisei fazer classes e mais classes para se adaptar a API). 
 - Buscar saber se o Gson só converte objetos Java e se é saudável manter objetos Java dentro de um projeto Kotlin. 
+
+<h3>Screenshots</h3>
+  
+  <img align="center" height="200" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.sv](https://user-images.githubusercontent.com/75861637/175790553-3c2f64f6-980e-43d6-9e49-a68e43d205e2.png">
+  
+ 
